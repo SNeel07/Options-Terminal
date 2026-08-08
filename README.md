@@ -10,7 +10,9 @@ The NSE Options Terminal is a light-weight market analysis tool designed to visu
 * [Special Note](#special-note)
 
 ## **Installation**
-For those who want to download the ready-made tool [click here](https://bitgreekterminal.netlify.app/)
+For those who want to download the ready-made tool [click here](https://bitgreekterminal.netlify.app/) <br>
+**Note:**When trying to install, you will most certainly get a message from Windows Defender. There's nothing to worry about!<br>
+Just click on "**More info**" and then "**Run anyway**"
 
 ## **Why a Terminal?**
 Traditional option chain pages expose large amounts of raw market data that can be difficult to interpret quickly.
